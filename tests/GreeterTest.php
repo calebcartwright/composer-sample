@@ -21,4 +21,3 @@ class GreeterTest extends TestCase
         unset($var);
     }
 }
-
